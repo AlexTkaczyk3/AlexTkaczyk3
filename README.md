@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlexTkaczyk3
-- 👀 I’m interested in just about anything and everything, though my core interests lie in machine learning, computer vision, artificial intelligence, and virtual reality interfaces.
-- 🌱 I’m currently learning Computer Science at the University of Illinois at Chicago
-- 💞️ I’m looking to collaborate on any kind of project, even those in which I don't have much experience on. As long as I can learn it, then I'll be willing to help!
+- 👀 I’m interested in primarily backend design including endpoint creation, MCP and AI integration, working with complex data strcutures, and really anything to do with what makes an application tick completely unseen to the user.
+- 🌱 I’m currently working as a Software Engineer at CACI International Inc.
 - 📫 How to reach me through email at tkaczyk.ale@gmail.com
 
 <!---
